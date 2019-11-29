@@ -1,1 +1,1 @@
-# trabajo-mcga-server
+# trabajo-mcga-server (este proyecto no va)
